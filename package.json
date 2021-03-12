@@ -1,0 +1,20 @@
+{
+  "name": "virtual-scroll-vue",
+  "version": "1.0.0",
+  "description": "vue版的虚拟滚动组件源码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thor-1996/vue-virtual-scroll.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thor-1996/vue-virtual-scroll/issues"
+  },
+  "homepage": "https://github.com/Thor-1996/vue-virtual-scroll#readme"
+}
